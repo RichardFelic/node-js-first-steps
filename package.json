@@ -1,0 +1,30 @@
+{
+  "name": "node-first-steps",
+  "version": "1.0.0",
+  "description": "Primeros pasos en Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardFelic/node-js-first-steps.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Richard Eduardo Feliciano Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardFelic/node-js-first-steps/issues"
+  },
+  "homepage": "https://github.com/RichardFelic/node-js-first-steps#readme",
+  "dependencies": {
+    "picocolors": "1.1.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  }
+}
